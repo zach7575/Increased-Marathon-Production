@@ -1,4 +1,4 @@
-# Increased_Production_For_Marathon
+#Increased-Marathon-Production
 Increases Production of units by 3x and building by 2x in Marathon speed.
 
 - Increases building production by 50% (Half of Standard speed)
