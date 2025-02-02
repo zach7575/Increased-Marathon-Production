@@ -7,7 +7,7 @@
         "scienceCostModifier": 3.0,
         "cultureCostModifier": 3.0,
         "faithCostModifier": 3.0,
-        //Changed build factor from 3x to 2x
+        //Changed improvement modifier from 3x to 2x
         "improvementBuildLengthModifier": 2.0,
         //Changed barbarianmodifier from 4 to 3
         "barbarianModifier": 3.0,
@@ -28,9 +28,9 @@
             {"yearsPerTurn": 0.25,     "untilTurn": 1344},
             {"yearsPerTurn": 0.083333, "untilTurn": 1500}
         ]
-        //Added uniques here to differentiate production types instead of global above
+        //Added uniques here to differentiate production types
         "uniques": [
-            "[+100]% Production when constructing [All] buildings [in all cities]",
+            "[+50]% Production when constructing [All] buildings [in all cities]",
             "[+200]% Production when constructing [All] units [in all cities]",
         ]
     }
