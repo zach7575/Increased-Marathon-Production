@@ -9,7 +9,8 @@
         "faithCostModifier": 3.0,
         //Changed improvement modifier from 3x to 2x
         "improvementBuildLengthModifier": 2.0,
-        "barbarianModifier": 4.0,
+        //Changed barbarian modifier from 4x to 3x
+        "barbarianModifier": 3.0,
         "goldGiftModifier": 0.67,
         "cityStateTributeScalingInterval": 32.0,
         "goldenAgeLengthModifier": 2.0,
