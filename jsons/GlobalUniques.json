@@ -1,7 +1,10 @@
 {
   "name": "Global uniques",
   "uniques": [
-    "[Production] cost of purchasing [All] buildings [-50]%",
-    "[Production] cost of purchasing [All] units [-66]%",
+    //"[Production] cost of purchasing [All] buildings [-50]%",
+    //"[Production] cost of purchasing [All] units [-66]%",
+    "[+200]% Production when constructing [All] units [In all cities]",
+    "[+50]% Production when constructing [All] buildings [In all cities]",
+    "[+50]% Production when constructing [All] wonders [In all cities]",
   ]
 }
