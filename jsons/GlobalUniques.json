@@ -2,7 +2,7 @@
   "name": "Global uniques",
   "uniques": [
     "[+200]% Production when constructing [All] units [in all cities]",
-    "[+50]% Production when constructing [All] buildings [in all cities]",
-    "[+50]% Production when constructing [All] wonders [in all cities]",
+    "[+100]% Production when constructing [All] buildings [in all cities]",
+    "[+100]% Production when constructing [All] wonders [in all cities]",
   ]
 }
